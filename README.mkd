@@ -1,0 +1,8 @@
+<DOCTYPE markdown>
+<meta charset="utf-8" content="text/markdown" lang="en">
+
+# Perl binaries for AppVeyor CI
+
+<!-- last <https://StrawberryPerl.com> downtime was for 2+days on 2018-11-30 -->
+
+This repository contains point-in-time batches of binaries from StrawberryPerl to act as a mirror when/if StrawyberryPerl is unavailable. The binaries are contained in ["releases"](https://github.com/rivy/CI.AppVeyor.helpers-perl-binaries/releases).
