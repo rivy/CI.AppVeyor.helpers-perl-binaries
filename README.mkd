@@ -1,13 +1,18 @@
-<DOCTYPE markdown>
+<!DOCTYPE markdown><!-- markdownlint-disable no-inline-html -->
 <meta charset="utf-8" content="text/markdown" lang="en">
+<!-- -## editors ## (emacs/sublime) -*- coding: utf8-nix; tab-width: 2; mode: markdown; indent-tabs-mode: nil; basic-offset: 2; st-word_wrap: 'true' -*- ## (jEdit) :tabSize=2:indentSize=2:mode=markdown: ## (notepad++) vim:tabstop=2:syntax=markdown:expandtab:smarttab:softtabstop=2 ## modeline (see <https://archive.is/djTUD>@@<http://webcitation.org/66W3EhCAP> ) -->
+<!-- spell-checker:ignore expandtab markdownlint modeline smarttab softtabstop -->
 
-# Perl binaries for AppVeyor CI
+# Perl (WinOS-type) binaries for CI
 
-<!-- last <https://StrawberryPerl.com> downtime was for 2+days on 2018-11-30 -->
+<!-- as of 2019-06, last <https://StrawberryPerl.com> downtime was for 2+days on 2018-11-30 -->
 
-This repository contains point-in-time batches of binaries from StrawberryPerl to act as a mirror when/if StrawyberryPerl is unavailable. The binaries are contained in ["releases"](https://github.com/rivy/CI.AppVeyor.helpers-perl-binaries/releases).
+This repository contains point-in-time batches of WinOS-type binaries from [StrawberryPerl](http://strawberryperl.com).
+If/when StrawberryPerl is unavailable, these binaries act as a backup for AppVeyor/WinOS-type CI execution.
 
-# Releases
+The binaries are available for download from the repository ["releases"](https://github.com/rivy/CI.AppVeyor.helpers-perl-binaries/releases) section.
 
-- [2018-12-01](https://github.com/rivy/CI.AppVeyor.helpers-perl-binaries/releases/tag/1.2018.0)
+## Releases
+
 - [2019-06-03](https://github.com/rivy/CI.AppVeyor.helpers-perl-binaries/releases/tag/1.2019.0)
+- [2018-12-01](https://github.com/rivy/CI.AppVeyor.helpers-perl-binaries/releases/tag/1.2018.0)
